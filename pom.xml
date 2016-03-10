@@ -14,6 +14,7 @@
         <module>generator</module>
         <module>library</module>
         <module>war</module>
+        <module>admin</module>
     </modules>
 
 

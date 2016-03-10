@@ -6,6 +6,11 @@
         <element id="directory" name="classes">
           <element id="module-output" name="war" />
         </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="common-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="common" />
+          </element>
+        </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="F:\Jbricks\war\target/MANIFEST.MF" />
